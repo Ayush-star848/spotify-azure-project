@@ -1,0 +1,9 @@
+{
+	"name": "factory-azure-project",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9b32fdfe-77fd-4b1e-b71c-c7352001fbd4",
+		"tenantId": "aafb29d4-4e56-4358-b07d-cefc82e5efb8"
+	}
+}

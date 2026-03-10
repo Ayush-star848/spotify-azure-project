@@ -1,0 +1,27 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "factory-azure-project"
+		},
+		"azure_sql_password": {
+			"value": ""
+		},
+		"datalake_accountKey": {
+			"value": ""
+		},
+		"azure_sql_properties_typeProperties_server": {
+			"value": "azureprojectserverayush.database.windows.net"
+		},
+		"azure_sql_properties_typeProperties_database": {
+			"value": "azureprojectdbayush"
+		},
+		"azure_sql_properties_typeProperties_userName": {
+			"value": "adminayush"
+		},
+		"datalake_properties_typeProperties_url": {
+			"value": "https://ayushstoragezureproj.dfs.core.windows.net/"
+		}
+	}
+}

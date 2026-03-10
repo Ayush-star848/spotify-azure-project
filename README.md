@@ -1,1 +1,3 @@
 # spotify-azure-project
+In this project three layers are made bronze,silver, and gold
+In this bronze branch pipelines are maded to automate data filling with the help of cincept like incremenatal loading,backfilling,logic apps and etc...
